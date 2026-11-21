@@ -25,7 +25,7 @@ Lo que vi:
 - **User-Agent:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36`
 - **Otros headers:** `Accept`, `Accept-Language`, `Accept-Encoding`, `Referer`, `Connection`, `Cache-Control`
 
-![Captura de la solicitud](https://github.com/SirJuancho12/practica-wifi-segura/blob/main/captura.png?raw=true)
+<img width="556" height="1152" alt="capture" src="https://github.com/user-attachments/assets/3c8d88da-f16f-4da4-9c7e-feff26cf1ede" />
 
 Todo esto viaja en texto plano, así que cualquiera que pueda ver el tráfico de la red lo puede leer.
 
